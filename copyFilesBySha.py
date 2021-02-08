@@ -30,7 +30,7 @@ ArrayYears      = []
 ArrayAllFiles   = []
 ArraySHAFiles   = []
 
-
+#test desktop linux
 
 extDocs      = [".doc",".mdb",".xls",".htm",".html",".docx",".txt",".swf",".ppt",".pps",".zip",".pub",".rar",".pdf"]
 extVideos    = [".mpg",".avi","mpeg",".3gp",".webm"]
